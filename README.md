@@ -1,5 +1,7 @@
 # Welcome readme-md-generater
 
+![Algorithm schema](./images/schema.jpg)
+
 ## Prerequisites
 * npm >=5.5.0
 * node >=9.3.0
