@@ -18,18 +18,18 @@ npm run <span style="color: blue">tests</span>
 ```
 ## Author 
   Frank Abgrall
-  * Twitter: [@FrankAbgrall](ftsasvxv)
-  * Github: [Kefranabg]
+  * Twitter: [@FrankAbgrall](Frank)
+  * Github: [Kefranabg](Key)
 
 ## Contributing
 Contributions issues and features request are welcome!
-Feel free to check issues pages.
+Feel free to check [issues pages](pages).
 
 ## Show your support
 Give a if this projects helped you.
 
 ## License
-Copyright 2019 Frank Abgrall.
-This project is MIT licensed.
+Copyright 2019 [Frank Abgrall](frank).
+This project is [MIT](mit) licensed.
 
-#### This README was generated with by readme-md-generator
+#### This README was generated with by [readme-md-generator](readme).
