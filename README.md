@@ -16,7 +16,7 @@ npm run start
 ```
 ## Run tests
 ```bash
-npm run <span style="color: blue">tests</span>
+npm run [test](test)
 ```
 ## Author 
   Frank Abgrall
