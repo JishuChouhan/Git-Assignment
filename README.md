@@ -11,7 +11,9 @@ npm install
 npm run start
 
 ## Run tests
-npm run <span style="color: red">tests</span>
+npm run <span style="color: blue">tests</span>
 
 ## Author 
   Frank Abgrall
+  * Twitter: [@FrankAbgrall]
+  * Github: [Kefranabg]
