@@ -16,7 +16,7 @@ npm run start
 ```
 ## Run tests
 ```bash
-npm run [test](test)
+npm run test
 ```
 ## Author 
   Frank Abgrall
