@@ -19,7 +19,7 @@ npm run <span style="color: blue">tests</span>
 ## Author 
   Frank Abgrall
   * Twitter: [@FrankAbgrall](Frank)
-  * Github: [Kefranabg](Key)
+  * Github: [@Kefranabg](Key)
 
 ## Contributing
 Contributions issues and features request are welcome!
