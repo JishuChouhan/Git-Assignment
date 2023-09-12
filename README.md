@@ -1,5 +1,13 @@
 # Welcome readme-md-generater
 
+![badge](https://img.shields.io/badge/version-0.50-blue)
+![badge](https://img.shields.io/badge/npm-%3E%3D5.5.50-blue)
+![badge](https://img.shields.io/badge/node-%3E%3D9.1.30-blue)
+![badge](https://img.shields.io/badge/documentation-yes-brightgreen)
+![badge](https://img.shields.io/badge/maintained-yes-green)
+![badge](https://img.shields.io/badge/license-MIT-yellowgreen)
+
+
 ## Prerequisites
 * npm >=5.5.0
 * node >=9.3.0
